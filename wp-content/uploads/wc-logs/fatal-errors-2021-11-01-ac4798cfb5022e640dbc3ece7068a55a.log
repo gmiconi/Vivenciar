@@ -1,0 +1,495 @@
+2021-11-01T13:16:39+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:19:21+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:19:40+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:31+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:32+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:33+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:33+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:34+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:36+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:36+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:36+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:37+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:37+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:38+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:20:38+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:21:50+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:32+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:33+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:34+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:34+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:35+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:37+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:37+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:37+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:38+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:38+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:39+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:50+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:22:52+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:33+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:34+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:35+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:35+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:36+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:38+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:38+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:38+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:39+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:39+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:40+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:50+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:24:53+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:25:59+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:34+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:35+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:37+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:37+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:37+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:39+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:39+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:40+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:40+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:40+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:41+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
+2021-11-01T13:26:54+00:00 CRITICAL Uncaught WC_Data_Exception: E-mail de faturamento inválido in C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php:856
+Stack trace:
+#0 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(971): WC_Data->error('customer_invali...', 'E-mail de fatur...')
+#1 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\data-stores\class-wc-customer-data-store-session.php(113): WC_Customer->set_billing_email('contato@localho...')
+#2 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(159): WC_Customer_Data_Store_Session->read(Object(WC_Customer))
+#3 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-wc-customer.php(116): WC_Data_Store->read(Object(WC_Customer))
+#4 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\class-woocommerce.php(782): WC_Customer->__construct(1, true)
+#5 C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\wc-core-functions.php(2518): WooCommerce->initialize_cart, em C:\xampp\htdocs\prs\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-data.php, na linha 856
+
