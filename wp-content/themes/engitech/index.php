@@ -1,4 +1,6 @@
+<div id="topo-interno">
 <?php
+
 /**
  * The main template file
  *
@@ -13,13 +15,27 @@
  */
 
 get_header();
+
 ?>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&family=Spectral:wght@300;400;600&display=swap" rel="stylesheet">
+
+</div>
+
+
 
 <div class="entry-content">
 	<div class="container">
 		<div class="row">
 			<div id="primary" class="content-area <?php engitech_content_columns(); ?>">
 				<main id="main" class="site-main">
+
+					<div class="title-sing">
+						<h1>veja os nossos conteúdos criados</h1>
+						<h2>Nosso Blog</h2>
+					</div>
 
 				<?php
 				if ( have_posts() ) :

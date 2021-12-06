@@ -952,7 +952,7 @@ textarea {
 .wpcf7-form input[type='submit'] {
   font-family: "Roboto", Sans-serif;
   font-weight: 700;
-    background-image: linear-gradient(210deg, #28599E 0%, #3F9895 100%) !important;
+    background-image: linear-gradient(210deg, #FB3991 0%, #5A00A2 100%) !important;
     padding: 17px 25px 17px 25px;
   padding: 17px 25px 17px 25px;
   text-transform: initial !important;
@@ -960,8 +960,7 @@ textarea {
 }
 
 .wpcf7-form input[type='submit']:hover {
-  background-image: linear-gradient(
-300deg, #28599E 0%, #3F9895 87%);
+  background-image: linear-gradient(300deg, #D12171 0%, #44007A 87%) !important;
 }
 
 
@@ -1298,7 +1297,7 @@ a:hover, a:active {
   padding-left: 0;
 }
 #primary-menu .menu-item a, #primary-menu .menu-item a:hover {border: none !important; color: #000; font-size: 13px;}
-#primary-menu > .menu-item:last-child > a {color: #033575; font-family: 'Bad Script'; font-style: italic; font-size: 15px !important}
+#primary-menu > .menu-item:last-child > a {color: #FB3991; font-family: 'Bad Script'; font-style: italic; font-size: 15px !important}
 #primary-menu .menu-item {padding: 7px 0;}
 #primary-menu .menu-item:hover {}
 #primary-menu .menu-item-has-children a {padding-right: 25px !important;}
@@ -1312,6 +1311,7 @@ a:hover, a:active {
 
 .main-navigation ul li ul.sub-menu {padding: 10px !important;}
 .main-navigation ul li ul.sub-menu li a {font-weight: 500; text-transform: initial; padding-left: 20px !important;}
+.main-navigation ul li ul.sub-menu li a:hover {color:#FD3A91 !important;}
 .main-navigation:not(.no-line) ul li li a:before {display: none;}
 
 #primary-menu .current_page_item:first-child:hover {opacity: 1;}
@@ -1319,7 +1319,7 @@ a:hover, a:active {
 #primary-menu .current_page_item:first-child a {color: #ffffff !important; }
 
  
-#inicio {/*position: absolute; top: 0; width:100%; */ margin-top: -200px;}
+#inicio {/*position: absolute; top: 0; width:100%; */ margin-top: -242px;}
 
 .site-footer .sub-menu {display: none;}
 
@@ -1344,7 +1344,7 @@ body .slick-dots li.slick-active button:before {color: #033575 !important;}
   transition: all .3s;
 }
 
-.post-type-carousel .blog-item .btn-readmore a:hover {background: #3F9895;}
+.post-type-carousel .blog-item .btn-readmore a:hover {background: #FB3991;}
 
 .slick-list {padding-bottom: 50px !important;}
 
@@ -2520,7 +2520,7 @@ body .slick-dots li.slick-active button:before {color: #033575 !important;}
   line-height: 1;
   display: inline-block;
   color: #fff;
-  background: #3D9390;
+  background: #FB3991;
   padding: 10px;
   margin-right: 6px;
 }
@@ -8036,12 +8036,14 @@ div.elementor-widget-heading.elementor-widget-heading h6.elementor-heading-title
 
 .woocommerce-product-gallery {border: solid 1px #ccc5; padding: 20px; }
 
-.title-sing {text-align: center; margin-bottom: 50px; border-top: solid 1px #0002; padding-top: 40px; margin-top: 10px;}
+.title-sing {text-align: center; margin-bottom: 50px;  padding-top: 40px; margin-top: 10px;}
 .title-sing img {width: 400px;}
+
+.title-sing h1 {font-weight: 500; font-size: 18px; color: #B1B1B1; margin-bottom: 5px;}
+.title-sing h2 { font-size: 60px; color: #033575; margin-top: 0; font-family: 'Cookie', serif; font-weight: 600;}
 
 .sing-blog .wp-post-image {width: 100%; margin-top: -16px; z-index: 0;}
 .sing-blog .post-cat {z-index: 1; position: relative;}
-
 
 .row-h {
   display: flex;
@@ -8079,3 +8081,48 @@ div.elementor-widget-heading.elementor-widget-heading h6.elementor-heading-title
   transform: rotate(360deg)
 }
 }*/
+
+#topo-interno #top-menu {; margin-top: 5px;}
+#topo-interno .elementor-15 .elementor-element.elementor-element-04092d2 {border:  none}
+#topo-interno .elementor-15 .elementor-element.elementor-element-5816114 > .elementor-widget-container {margin: 0;}
+#topo-interno .elementor-15 .elementor-element.elementor-element-04092d2 {padding-bottom: 3px;}
+
+
+#topo-interno #logo-interno {width: 140px;}
+#topo-interno #entre-em-contato {margin-top: 30px;}
+#topo-interno #top-menu {border: solid 1px #ccc5 !important;}
+
+#primary-menu .current-menu-ancestor > a, #primary-menu .current-menu-ancestor > a:hover { background: #033575; color: #ffffff !important; border-radius: 26px !important; padding: 7px 47px 7px 27px !important;}
+
+#primary-menu .current-menu-ancestor > a::after {margin-right: 15px; background: url('images/seta-white.svg') no-repeat;}
+
+#topo-interno .main-navigation ul li ul.sub-menu li.current-menu-item a {color: #FD3A91 !important;}
+
+
+
+@media (min-width: 768px) and (max-width: 1300px) {
+
+  #quemsomos {
+    margin-top: -23%;
+    z-index: 5;
+  }
+  
+}
+
+@media (min-width: 1301px) and (max-width: 1600px) {
+
+  #quemsomos {
+    margin-top: -17%;
+    z-index: 5;
+  }
+  
+}
+
+@media (min-width: 1601px) and (max-width: 1900px) {
+
+  #quemsomos {
+    margin-top: -10%;
+    z-index: 5;
+  }
+ 
+}

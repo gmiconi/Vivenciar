@@ -1,3 +1,4 @@
+<div id="topo-interno">
 <?php
 
 /**
@@ -7,6 +8,16 @@
 
 get_header();
 
+?>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&family=Spectral:wght@300;400;600&display=swap" rel="stylesheet">
+
+</div>
+
+<?php
+
 if ( ! function_exists( 'elementor_theme_do_location' ) || ! elementor_theme_do_location( 'single' ) ) { ?>
 	<div class="entry-contents">
 		<div class="container">
@@ -15,7 +26,8 @@ if ( ! function_exists( 'elementor_theme_do_location' ) || ! elementor_theme_do_
 					<main id="main" class="site-main">
 
 						<div class="title-sing">
-							<img src="<?php echo get_template_directory_uri(); ?>/images/tit-quem-somos.png" width="200">
+							<h1>aranda consultoria empresarial</h1>
+							<h2>Quem Somos</h2>
 						</div>
 						
 					<?php
